@@ -1,0 +1,14 @@
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.exe
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.deps.json
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.runtimeconfig.json
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.dll
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\bin\Debug\net7.0\StudentGradingApp.pdb
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.AssemblyInfoInputs.cache
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.AssemblyInfo.cs
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.csproj.CoreCompileInputs.cache
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.dll
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\refint\StudentGradingApp.dll
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.pdb
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\StudentGradingApp.genruntimeconfig.cache
+D:\Software\VS Projects\CsharpProjects\StudentGradingApp\obj\Debug\net7.0\ref\StudentGradingApp.dll
